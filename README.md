@@ -16,7 +16,7 @@ Discord: _0xl33
 
 | Contest Name | Platform | Tags | Findings | Rank |
 |:------------:|:--------:|:----:|:--------:|:----:|
-| **Yeet**| Immunefi | `Ponzi`, `Yield` | <h5>1C, 1H, 1M, 1L, 1I</h5> | **[8/263](https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/#top)** |
+| **Yeet**| Immunefi | `Yield`, `Lottery` | <h5>1C, 1H, 1M, 1L, 1I</h5> | **[8/263](https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/#top)** |
 | **Jigsaw Finance** | Cantina | `CDP`, `Stablecoin` | <h5>7H, 4M</h5> | **[9/759](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea/leaderboard)** |
 | **Alchemix V3** | Cantina | `Synthetics` | <h5>7H, 2M</h5> | **[11/902](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)** |
 | **Dahlia** | Cantina | `Lending` | <h5>1H</h5> | [17/316](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b/leaderboard) |
