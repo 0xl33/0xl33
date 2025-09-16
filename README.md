@@ -1,6 +1,6 @@
 # My Audit Portfolio
 
-Hi, my name is Lee, I am a web3 security researcher competing in public contests. I also do solo private audits and I am open to offers.
+Hi, my name is Lee, I am a web3 security researcher competing in public contests. I also do solo/team private audits and I am open to offers.
 
 I am proficient in Solidity/EVM, and currently learning Rust on the side.
 
