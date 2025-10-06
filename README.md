@@ -22,3 +22,12 @@ Discord: _0xl33
 | **Dahlia** | Cantina | `Lending` | <h5>1H</h5> | [17/316](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b/leaderboard) |
 | **Gamma** | Codehawks | `Liquidity management` | <h5>1H, 1M, 3L</h5> | [19/*](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=2&sc=reward&sj=reward&t=leaderboard) |
 | **Plaza Finance** | Sherlock | `Derivatives` | <h5>1M</h5> | [27/2471](https://audits.sherlock.xyz/contests/682/leaderboard) |
+
+## Private Engagements
+
+| Client Name | Worked With | Tags | Date | Findings |
+|:-----------:|:-----------:|:----:|:----:|:--------:|
+| **Still Private** | Pashov Audit Group | `CDP`, `Stablecoin` | Aug 2025 | <h5>2H, 4M, 6L</h5> |
+| **Still Private** | Pashov Audit Group | `Staking` | Sep 2025 | <h5>1M, 3L</h5> |
+| **Still Private** | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Sep 2025 | <h5>1M, 3L</h5> |
+| **Still Private** | Pashov Audit Group | `RWA`, `Staking` | Sep 2025 | <h5>2C, 5H, 4M, 12L</h5> |
