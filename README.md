@@ -1,13 +1,12 @@
-# My Audit Portfolio
+# Web3 Security Portfolio
 
-Hi, my name is Lee, I am a web3 security researcher competing in public contests. I also do solo/team private audits and I am open to offers.
+I am a freelance Web3 security researcher offering solo or team-based private audits.
 
-I am proficient in Solidity/EVM, and currently learning Rust on the side.
+I am proficient in Solidity and EVM-based systems, and comfortable with Rust.
 
-If you are in need of a private audit - direct message me on X/Telegram/Discord.
+If you are looking for a private audit - send me a direct message on X/Telegram/Discord.
 
-Social media handles:   
-
+**Social media handles:**   
 X: @ll30161313   
 Telegram: @eight8eight   
 Discord: _0xl33   
