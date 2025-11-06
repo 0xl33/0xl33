@@ -33,3 +33,4 @@ Discord: _0xl33
 | **Still Private** | Pashov Audit Group | `Derivatives` | Oct 2025 | <h5>1M, 7L</h5> |
 | **Still Private** | Pashov Audit Group | `MEE`, `Infrastructure` | Oct 2025 | <h5>1M</h5> |
 | **Still Private** | Pashov Audit Group | `Tokenization`, `Airdrop`, `Staking` | Oct 2025 | <h5>3L</h5> |
+| **Still Private** | Pashov Audit Group | `Leveraged prediction market` | Nov 2025 | <h5>7C, 5H, 7M, 27L</h5> |
