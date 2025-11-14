@@ -34,4 +34,4 @@ Discord: _0xl33
 | **Still Private** | Pashov Audit Group | `MEE`, `Infrastructure` | Oct 2025 | <h5>1M</h5> |
 | **Still Private** | Pashov Audit Group | `Tokenization`, `Airdrop`, `Staking` | Oct 2025 | <h5>3L</h5> |
 | **Still Private** | Pashov Audit Group | `Leveraged prediction market` | Nov 2025 | <h5>4C, 7H, 10M, 25L</h5> |
-| **Still Private** | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 3M, 4L</h5> |
+| **Still Private** | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 2M, 5L</h5> |
