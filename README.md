@@ -37,3 +37,4 @@ Discord: _0xl33
 | [Hytopia](https://x.com/hytopia) | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 2M, 5L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/HYBUX-security-review_2025-11-11.pdf)|
 | **Still Private** | Pashov Audit Group | `Staking` | Nov 2025 | <h5>5L</h5> | **Still Private** |
 | **Still Private** | Pashov Audit Group | `LST`, `HyperLiquid` | Nov 2025 | <h5>3M</h5> | **Still Private** |
+| **Still Private** | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | <h5>1H</h5> | **Still Private** |
