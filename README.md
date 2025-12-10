@@ -26,16 +26,16 @@ Discord: _0xl33
 
 | Client Name | Worked With | Tags | Date | Findings | Report |
 |:-----------:|:-----------:|:----:|:----:|:--------:|:------:|
-| Mustang Finance | Pashov Audit Group | `CDP`, `Stablecoin` | Aug 2025 | **Still Private** | **Still Private** |
-| Hyperbeat | Pashov Audit Group | `LST`, `HyperLiquid` | Sep 2025 | **Still Private** | **Still Private** |
-| Ostium | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Sep 2025 | **Still Private** | **Still Private** |
-| Instruxi | Pashov Audit Group | `RWA`, `Staking` | Sep 2025 | **Still Private** | **Still Private** |
-| Saffron | Pashov Audit Group | `Derivatives` | Oct 2025 | **Still Private** | **Still Private** |
-| Biconomy | Pashov Audit Group | `MEE`, `Infrastructure` | Oct 2025 | **Still Private** | **Still Private** |
-| Play AI | Pashov Audit Group | `Tokenization`, `Airdrop`, `Staking` | Oct 2025 | **Still Private** | **Still Private** |
-| Liquid Protocol | Pashov Audit Group | `Leveraged prediction market` | Nov 2025 | **Still Private** | **Still Private** |
-| [Hytopia](https://x.com/hytopia) | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 2M, 5L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/HYBUX-security-review_2025-11-11.pdf)|
-| BOB | Pashov Audit Group | `Staking` | Nov 2025 | **Still Private** | **Still Private** |
-| Kinetiq | Pashov Audit Group | `LST`, `HyperLiquid` | Nov 2025 | **Still Private** | **Still Private** |
-| Biconomy | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | **Still Private** | **Still Private** |
-| Aave V3.6 | Pashov Audit Group | `Lending` | Nov 2025 | **Still Private** | **Still Private** |
+| Mustang Finance | Pashov Audit Group | `CDP`, `Stablecoin` | Aug 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Hyperbeat | Pashov Audit Group | `LST`, `HyperLiquid` | Sep 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Ostium | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Sep 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Instruxi | Pashov Audit Group | `RWA`, `Staking` | Sep 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Saffron | Pashov Audit Group | `Derivatives` | Oct 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Biconomy | Pashov Audit Group | `MEE`, `Infrastructure` | Oct 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Play AI | Pashov Audit Group | `Tokenization`, `Airdrop`, `Staking` | Oct 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Liquid Protocol | Pashov Audit Group | `Leveraged prediction market` | Nov 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| [Hytopia](https://x.com/hytopia) | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 2M, 5L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/HYBUX-security-review_2025-11-11.pdf) |
+| BOB | Pashov Audit Group | `Staking` | Nov 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Kinetiq | Pashov Audit Group | `LST`, `HyperLiquid` | Nov 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Biconomy | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| [Aave](https://x.com/aave) V3.6 | Pashov Audit Group | `Lending` | Nov 2025 | <h5>-</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review_2025-11-29.pdf) |
