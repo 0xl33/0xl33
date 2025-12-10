@@ -27,7 +27,7 @@ Discord: _0xl33
 | Client Name | Worked With | Tags | Date | Findings | Report |
 |:-----------:|:-----------:|:----:|:----:|:--------:|:------:|
 | [Mustang Finance](https://x.com/mustangfinance) | Pashov Audit Group | `CDP`, `Stablecoin` | Aug 2025 | <h5>**Still Private**</h5> | **Still Private** |
-| [Hyperbeat](https://x.com/hyperbeat) | Pashov Audit Group | `LST`, `HyperLiquid` | Sep 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| [Hyperbeat](https://x.com/hyperbeat) | Pashov Audit Group | `LST`, `HyperLiquid` | Sep 2025 | <h5>1M, 3L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Hyperbeat-security-review_2025-09-03.pdf) |
 | [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Sep 2025 | <h5>**Still Private**</h5> | **Still Private** |
 | [Instruxi](https://x.com/instruxi) | Pashov Audit Group | `RWA`, `Staking` | Sep 2025 | <h5>**Still Private**</h5> | **Still Private** |
 | [Saffron](https://x.com/Saffron) | Pashov Audit Group | `Derivatives` | Oct 2025 | <h5>**Still Private**</h5> | **Still Private** |
