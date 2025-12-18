@@ -39,5 +39,5 @@ Discord: _0xl33
 | [Kinetiq](https://x.com/kinetiq_xyz) | Pashov Audit Group | `LST`, `HyperLiquid` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Aave](https://x.com/aave) V3.6 | Pashov Audit Group | `Lending` | Nov 2025 | <h5>-</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review_2025-11-29.pdf) |
-| Ample Earn | Pashov Audit Group | `Lending` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Ample Earn](https://x.com/AmpleHQ) | Pashov Audit Group | `Lending` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
