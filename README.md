@@ -26,17 +26,18 @@ Discord: _0xl33
 
 | Client Name | Worked With | Tags | Date | Findings | Report |
 |:-----------:|:-----------:|:----:|:----:|:--------:|:------:|
-| [Mustang Finance](https://x.com/mustangfinance) | Pashov Audit Group | `CDP`, `Stablecoin` | Aug 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| [Mustang Finance](https://x.com/mustangfinance) | Pashov Audit Group | `CDP`, `Stablecoin` | Aug 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Hyperbeat](https://x.com/hyperbeat) | Pashov Audit Group | `LST`, `HyperLiquid` | Sep 2025 | <h5>1M, 3L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Hyperbeat-security-review_2025-09-03.pdf) |
-| [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Sep 2025 | <h5>**Still Private**</h5> | **Still Private** |
-| [Instruxi](https://x.com/instruxi) | Pashov Audit Group | `RWA`, `Staking` | Sep 2025 | <h5>**Still Private**</h5> | **Still Private** |
-| [Saffron](https://x.com/Saffron) | Pashov Audit Group | `Derivatives` | Oct 2025 | <h5>**Still Private**</h5> | **Still Private** |
-| [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Oct 2025 | <h5>**Still Private**</h5> | **Still Private** |
-| [Play AI](https://x.com/playAInetwork) | Pashov Audit Group | `Tokenization`, `Airdrop`, `Staking` | Oct 2025 | <h5>**Still Private**</h5> | **Still Private** |
-| [Liquid Protocol](https://x.com/getliquid) | Pashov Audit Group | `Leveraged prediction market` | Nov 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Sep 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Instruxi](https://x.com/instruxi) | Pashov Audit Group | `RWA`, `Staking` | Sep 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Saffron](https://x.com/Saffron) | Pashov Audit Group | `Derivatives` | Oct 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Oct 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Play AI](https://x.com/playAInetwork) | Pashov Audit Group | `Tokenization`, `Airdrop`, `Staking` | Oct 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Liquid Protocol](https://x.com/getliquid) | Pashov Audit Group | `Leveraged prediction market` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Hytopia](https://x.com/hytopia) | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 2M, 5L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/HYBUX-security-review_2025-11-11.pdf) |
-| [BOB](https://x.com/build_on_bob) | Pashov Audit Group | `Staking` | Nov 2025 | <h5>**Still Private**</h5> | **Still Private** |
-| [Kinetiq](https://x.com/kinetiq_xyz) | Pashov Audit Group | `LST`, `HyperLiquid` | Nov 2025 | <h5>**Still Private**</h5> | **Still Private** |
-| [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| [BOB](https://x.com/build_on_bob) | Pashov Audit Group | `Staking` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Kinetiq](https://x.com/kinetiq_xyz) | Pashov Audit Group | `LST`, `HyperLiquid` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Aave](https://x.com/aave) V3.6 | Pashov Audit Group | `Lending` | Nov 2025 | <h5>-</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review_2025-11-29.pdf) |
-| Ample Earn | Pashov Audit Group | `Lending` | Dec 2025 | <h5>**Still Private**</h5> | **Still Private** |
+| Ample Earn | Pashov Audit Group | `Lending` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
