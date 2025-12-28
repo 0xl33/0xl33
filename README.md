@@ -37,7 +37,7 @@ Discord: _0xl33
 | [Hytopia](https://x.com/hytopia) | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 2M, 5L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/HYBUX-security-review_2025-11-11.pdf) |
 | [BOB](https://x.com/build_on_bob) | Pashov Audit Group | `Staking` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Kinetiq](https://x.com/kinetiq_xyz) | Pashov Audit Group | `LST`, `HyperLiquid` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
-| [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | <h5>1H, 1L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Biconomy-security-review_2025-11-26.pdf) |
 | [Aave](https://x.com/aave) V3.6 | Pashov Audit Group | `Lending` | Nov 2025 | <h5>-</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Aave-security-review_2025-11-29.pdf) |
-| [Ample Earn](https://x.com/AmpleHQ) | Pashov Audit Group | `Lending` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
-| [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Ample Earn](https://x.com/AmpleHQ) | Pashov Audit Group | `Lending` | Dec 2025 | <h5>1C, 3L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/AmpleEarn-security-review_2025-12-12.pdf) |
+| [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Dec 2025 | <h5>4L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review_2025-12-15.pdf) |
