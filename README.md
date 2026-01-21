@@ -42,3 +42,5 @@ Discord: _0xl33
 | [Ample Earn](https://x.com/AmpleHQ) | Pashov Audit Group | `Lending` | Dec 2025 | <h5>1C, 3L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/AmpleEarn-security-review_2025-12-12.pdf) |
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Dec 2025 | <h5>4L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review_2025-12-15.pdf) |
 | [Strip](https://x.com/stripyield) | Pashov Audit Group | `Yield`, `Staking` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Opinion](https://x.com/opinionlabsxyz) | Pashov Audit Group | `LayerZero OFT` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Aave](https://x.com/aave) TokenLogic | Pashov Audit Group | `GHO` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
