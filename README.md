@@ -44,3 +44,4 @@ Discord: _0xl33
 | [Strip](https://x.com/stripyield) | Pashov Audit Group | `Yield`, `Staking` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Opinion](https://x.com/opinionlabsxyz) | Pashov Audit Group | `LayerZero OFT` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Aave](https://x.com/aave) TokenLogic | Pashov Audit Group | `GHO` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
