@@ -2,9 +2,9 @@
 
 I am a freelance Web3 security researcher offering solo or team-based private audits.
 
-I am proficient in Solidity and EVM-based systems, and comfortable with Rust.
+I am proficient in Solidity and EVM-based systems, comfortable with Rust, and experienced with fuzzing smart contracts (completed RareSkills Invariant Testing Bootcamp).
 
-If you are looking for a private audit - send me a direct message on X/Telegram/Discord.
+If you are looking for a private audit or a dedicated fuzzing engagement - send me a direct message on X/Telegram/Discord.
 
 **Social media handles:**   
 X: @ll30161313   
