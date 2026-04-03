@@ -49,3 +49,4 @@ Discord: _0xl33
 | [Bancor](https://x.com/Bancor) | Pashov Audit Group | `DEX`, `Aggregator` | Feb 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Mar 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `Lending`, `RWA`, `Commodities` | Mar 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Mar 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
