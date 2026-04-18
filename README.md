@@ -50,3 +50,4 @@ Discord: _0xl33
 | [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Mar 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `Lending`, `RWA`, `Commodities` | Mar 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Mar 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Hyperlend](https://x.com/hyperlendx) | Pashov Audit Group | `Hyperliquid`, `Lending` | Apr 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
