@@ -52,3 +52,5 @@ Discord: _0xl33
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Mar 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Hyperlend](https://x.com/hyperlendx) | Pashov Audit Group | `Hyperliquid`, `Lending` | Apr 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Polymarket](https://x.com/Polymarket) | Pashov Audit Group | `Prediction market` | Apr 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| Highway | Pashov Audit Group | `Bridge`, `Cross-chain` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Polymarket](https://x.com/Polymarket) | Pashov Audit Group | `Prediction market` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
