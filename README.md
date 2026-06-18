@@ -11,17 +11,6 @@ X: @ll30161313
 Telegram: @eight8eight   
 Discord: _0xl33   
 
-## Public Contests
-
-| Contest Name | Platform | Tags | Findings | Rank |
-|:------------:|:--------:|:----:|:--------:|:----:|
-| **Yeet**| Immunefi | `Yield`, `Lottery` | <h5>1C, 1H, 1M, 1L, 1I</h5> | **[8/263](https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/#top)** |
-| **Jigsaw Finance** | Cantina | `CDP`, `Stablecoin` | <h5>7H, 4M</h5> | **[9/759](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea/leaderboard)** |
-| **Alchemix V3** | Cantina | `Synthetics` | <h5>7H, 2M</h5> | **[11/902](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)** |
-| **Dahlia** | Cantina | `Lending` | <h5>1H</h5> | [17/316](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b/leaderboard) |
-| **Gamma** | Codehawks | `Liquidity management` | <h5>1H, 1M, 3L</h5> | [19/*](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=2&sc=reward&sj=reward&t=leaderboard) |
-| **Plaza Finance** | Sherlock | `Derivatives` | <h5>1M</h5> | [27/2471](https://audits.sherlock.xyz/contests/682/leaderboard) |
-
 ## Private Engagements
 
 | Client Name | Worked With | Tags | Date | Findings | Report |
@@ -55,3 +44,14 @@ Discord: _0xl33
 | Highway | Pashov Audit Group | `Bridge`, `Cross-chain` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Polymarket](https://x.com/Polymarket) | Pashov Audit Group | `Prediction market` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Vaults`, `Strategies`, `Yield` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+
+## Public Contests
+
+| Contest Name | Platform | Tags | Findings | Rank |
+|:------------:|:--------:|:----:|:--------:|:----:|
+| **Yeet**| Immunefi | `Yield`, `Lottery` | <h5>1C, 1H, 1M, 1L, 1I</h5> | **[8/263](https://immunefi.com/audit-competition/audit-comp-yeet/leaderboard/#top)** |
+| **Jigsaw Finance** | Cantina | `CDP`, `Stablecoin` | <h5>7H, 4M</h5> | **[9/759](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea/leaderboard)** |
+| **Alchemix V3** | Cantina | `Synthetics` | <h5>7H, 2M</h5> | **[11/902](https://cantina.xyz/competitions/e68909e6-3491-4a94-a707-ecf0c89cf72a/leaderboard)** |
+| **Dahlia** | Cantina | `Lending` | <h5>1H</h5> | [17/316](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b/leaderboard) |
+| **Gamma** | Codehawks | `Liquidity management` | <h5>1H, 1M, 3L</h5> | [19/*](https://codehawks.cyfrin.io/c/2025-02-gamma/results?lt=contest&page=2&sc=reward&sj=reward&t=leaderboard) |
+| **Plaza Finance** | Sherlock | `Derivatives` | <h5>1M</h5> | [27/2471](https://audits.sherlock.xyz/contests/682/leaderboard) |
