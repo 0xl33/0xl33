@@ -44,6 +44,7 @@ Discord: @_0xl33
 | Highway | Pashov Audit Group | `Bridge`, `Cross-chain` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Polymarket](https://x.com/Polymarket) | Pashov Audit Group | `Prediction market` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Vaults`, `Strategies`, `Yield` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
+| [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Jul 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 
 ## Public Contests
 
