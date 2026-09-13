@@ -23,7 +23,7 @@ Discord: @_0xl33
 | [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Oct 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Play AI](https://x.com/playAInetwork) | Pashov Audit Group | `Tokenization`, `Airdrop`, `Staking` | Oct 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Liquid Protocol](https://x.com/getliquid) | Pashov Audit Group | `Leveraged prediction market` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
-| [Hytopia](https://x.com/hytopia) | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 2M, 5L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/HYBUX-security-review_2025-11-11.pdf) |
+| [Hytopia](https://x.com/hytopiagg) | Pashov Audit Group | `NFT`, `Staking` | Nov 2025 | <h5>1C, 1H, 2M, 5L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/HYBUX-security-review_2025-11-11.pdf) |
 | [BOB](https://x.com/build_on_bob) | Pashov Audit Group | `Staking` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Kinetiq](https://x.com/kinetiq_xyz) | Pashov Audit Group | `LST`, `HyperLiquid` | Nov 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> |
 | [Biconomy](https://x.com/biconomy) | Pashov Audit Group | `MEE`, `Infrastructure` | Nov 2025 | <h5>1H, 1L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Biconomy-security-review_2025-11-26.pdf) |
