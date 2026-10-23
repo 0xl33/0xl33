@@ -15,6 +15,7 @@ Discord: @_0xl33
 
 | Client Name | Worked With | Tags | Date | Findings | Report | Notes |
 |:-----------:|:-----------:|:----:|:----:|:--------:|:------:|:-----:|
+| [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `Staking`, `Escrow`, `Governance` | Oct 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
 | <h5>**Still Private**</h5> | Cyfrin | `Staking`, `Governance` | Sep 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `ERC-4626`, `Yield management` | Sep 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
 | [Reserve](https://x.com/reserveprotocol) | Pashov Audit Group | `Portfolio management`, `Auction` | Sep 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
