@@ -15,7 +15,7 @@ Discord: @_0xl33
 
 | Client Name | Worked With | Tags | Date | Findings | Report | Notes |
 |:-----------:|:-----------:|:----:|:----:|:--------:|:------:|:-----:|
-| [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `Staking`, `Escrow`, `Governance` | Oct 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
+| [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `Staking`, `Escrow`, `Governance` | Oct 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest, 1st place</h5> |
 | <h5>**Still Private**</h5> | Cyfrin | `Staking`, `Governance` | Sep 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `ERC-4626`, `Yield management` | Sep 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
 | [Reserve](https://x.com/reserveprotocol) | Pashov Audit Group | `Portfolio management`, `Auction` | Sep 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
@@ -23,7 +23,7 @@ Discord: @_0xl33
 | [Paxos Labs](https://x.com/paxoslabs) | Pashov Audit Group | `Vault management` | Aug 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
 | [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Jul 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Diff review</h5> |
 | [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `Lending`, `RWA`, `Commodities` | Jul 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
-| [Kittenswap](https://x.com/KittenswapHype) | Pashov Audit Group | `DEX`, `Farming`, `Gauges` | Jul 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
+| [Kittenswap](https://x.com/KittenswapHype) | Pashov Audit Group | `DEX`, `Farming`, `Gauges` | Jul 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest, 1st place</h5> |
 | [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `RWA`, `Gauges` | Jun 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Vaults`, `Strategies`, `Yield` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Polymarket](https://x.com/Polymarket) | Pashov Audit Group | `Prediction market` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
