@@ -2,7 +2,7 @@
 
 I am a freelance Web3 security researcher.
 
-I am proficient in Solidity and EVM-based systems, comfortable with Rust, experienced with fuzzing smart contracts, judging/triaging, and AI workflows.
+I am proficient in Solidity and EVM-based systems, Rust and SVM, experienced with fuzzing smart contracts, judging/triaging, and AI workflows.
 
 If you are looking for a private audit, a dedicated fuzzing engagement, or someone who can judge/triage findings - send me a direct message on X/Telegram/Discord.
 
@@ -15,6 +15,7 @@ Discord: @_0xl33
 
 | Client Name | Worked With | Tags | Date | Findings | Report | Notes |
 |:-----------:|:-----------:|:----:|:----:|:--------:|:------:|:-----:|
+| [Aave](https://x.com/aave) TokenLogic | Pashov Audit Group | `GHO`, `GSM` | Oct 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `Staking`, `Escrow`, `Governance` | Oct 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest, 1st place</h5> |
 | <h5>**Still Private**</h5> | Cyfrin | `Staking`, `Governance` | Sep 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `ERC-4626`, `Yield management` | Sep 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
@@ -27,7 +28,7 @@ Discord: @_0xl33
 | [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `RWA`, `Gauges` | Jun 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Private contest</h5> |
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Vaults`, `Strategies`, `Yield` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Polymarket](https://x.com/Polymarket) | Pashov Audit Group | `Prediction market` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
-| Highway | Pashov Audit Group | `Bridge`, `Cross-chain` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
+| Highway | Pashov Audit Group | `Bridge`, `Cross-chain`, `Substrate` | May 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Polymarket](https://x.com/Polymarket) | Pashov Audit Group | `Prediction market` | Apr 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Hyperlend](https://x.com/hyperlendx) | Pashov Audit Group | `Hyperliquid`, `Lending` | Apr 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Mar 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
@@ -36,7 +37,7 @@ Discord: @_0xl33
 | [Bancor](https://x.com/Bancor) | Pashov Audit Group | `DEX`, `Aggregator` | Feb 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [RAAC](https://x.com/Raacfi) | Pashov Audit Group | `Lending`, `RWA`, `Commodities` | Feb 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Ostium](https://x.com/OstiumLabs) | Pashov Audit Group | `Perps`, `DEX`, `RWA` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> | <h5>Diff review</h5> |
-| [Aave](https://x.com/aave) TokenLogic | Pashov Audit Group | `GHO` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
+| [Aave](https://x.com/aave) TokenLogic | Pashov Audit Group | `GHO`, `GSM` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Opinion](https://x.com/opinionlabsxyz) | Pashov Audit Group | `LayerZero OFT` | Jan 2026 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Strip](https://x.com/stripyield) | Pashov Audit Group | `Yield`, `Staking` | Dec 2025 | <h5>**Still Private**</h5> | <h5>**Still Private**</h5> ||
 | [Bio Protocol](https://x.com/bioprotocol) | Pashov Audit Group | `Launchpad`, `Tokenization` | Dec 2025 | <h5>4L</h5> | [Report](https://github.com/pashov/audits/blob/master/team/pdf/Bio-security-review_2025-12-15.pdf) ||
